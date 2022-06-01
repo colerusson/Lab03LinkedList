@@ -1,0 +1,26 @@
+Insert The very quick brown fox jumped over the very lazy dog.
+PrintList
+PrintCopy
+Copy
+PrintList
+PrintCopy
+Delete
+PrintList
+PrintCopy
+Clear
+PrintList
+PrintCopy
+Copy
+PrintList
+PrintCopy
+Insert One-word
+Copy
+PrintList
+PrintCopy
+Clear
+Insert Ask not what your country can do for you.
+PrintList
+PrintCopy
+Copy
+PrintList
+PrintCopy
